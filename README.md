@@ -8,8 +8,7 @@
 
 🌟 Beyond the screen, I'm committed to continuous learning and growth. My GitHub is a reflection of my journey – you'll find repositories showcasing my projects, coding experiments, and contributions to the open-source community.
 
-📬 Let's connect and collaborate! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/anass-bouchfar){:target="_blank"}
-. Whether you're interested in tech discussions, project collaborations, or simply sharing coding anecdotes, I'm excited to connect with fellow developers and tech enthusiasts.
+📬 Let's connect and collaborate! Feel free to reach out via <a href="https://www.linkedin.com/in/anass-bouchfar" target="_blank">LinkedIn</a>. Whether you're interested in tech discussions, project collaborations, or simply sharing coding anecdotes, I'm excited to connect with fellow developers and tech enthusiasts.
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anassbouchfar&count_private=true&show_icons=true&include_all_commits=true)
